@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10813</md:content-id>  <md:title>Giáo trình cơ sở văn hóa việt</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>e963674b-8118-4274-b528-92a45e472f59</md:uuid>
-<md:slug>giao-trinh-co-so-van-hoa-viet</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>(Untitled)</md:title>                                <col:content>                    <col:module document="m28227"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Thai Son Nguyen">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10813</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh c&#x1A1; s&#x1EDF; v&#x103;n h&#xF3;a vi&#x1EC7;t</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>e963674b-8118-4274-b528-92a45e472f59</md:uuid>
+    <md:slug>giao-trinh-co-so-van-hoa-viet</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>(Untitled)</md:title>
+      <col:content>
+        <col:module document="m28227"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
